@@ -1,7 +1,7 @@
 {
   "name": "retro-calc",
-  "homepage": "http://jakChi.github.io/Registration-Form",
   "version": "0.1.0",
+  "homepage": "http://jakChi.github.io/Registration-Form",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",

@@ -1,4 +1,4 @@
-import waves from "./waves.svg";
+//import waves from "./waves.svg";
 import waves2 from "./waves2.svg";
 import './App.css';
 import { useState } from 'react';
@@ -15,7 +15,8 @@ function App() {
   const [ valid, setValid ] = useState(false);
   const [ err, setErr ] = useState([]);
 
-  const wavesArr = [waves, waves2];
+  //i wanted to make a waves changing animation but i can't now (
+  // const wavesArr = [waves, waves2];
 
   const handleChange = (e) => {
     switch(e.target.className) {
